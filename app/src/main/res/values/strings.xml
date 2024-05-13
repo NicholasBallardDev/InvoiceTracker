@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FIT2081Assignment1</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_invoice">Add Invoice</string>
+    <string name="clear_fields">Clear Fields</string>
+    <string name="list_all_invoices">List All Invoices</string>
+    <string name="exit">Exit</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAoNMqf8xgs1b_jQrprE_6GkrYsFEqCqBA</string>
+    <string name="items_map">Items Map</string>
+</resources>
